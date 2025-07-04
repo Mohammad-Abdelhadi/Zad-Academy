@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 1,
+    "name": "أحمد محمود",
+    "role": "مطور ويب",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=150&q=80",
+    "testimonial": "أكاديمية زاد غيرت حياتي المهنية بالكامل. الدورات عملية والمدربين محترفين جداً. أنصح بها بشدة لكل من يريد تطوير مهاراته التقنية.",
+    "rating": 5,
+    "course": "تطوير المواقع الإلكترونية"
+  },
+  {
+    "id": 2,
+    "name": "فاطمة العلي",
+    "role": "مختصة تسويق رقمي",
+    "image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=150&q=80",
+    "testimonial": "دورة التسويق الرقمي في أكاديمية زاد كانت شاملة ومفيدة جداً. تعلمت استراتيجيات فعالة ساعدتني في تطوير عملي بشكل كبير.",
+    "rating": 5,
+    "course": "التسويق الرقمي المتقدم"
+  },
+  {
+    "id": 3,
+    "name": "خالد السيد",
+    "role": "مصمم جرافيك",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=150&q=80",
+    "testimonial": "المحتوى ممتاز والطريقة التعليمية مبسطة ومفهومة. استطعت أن أبدأ العمل كمصمم مستقل بعد إنهاء دورة التصميم.",
+    "rating": 5,
+    "course": "تصميم الجرافيك باستخدام Adobe"
+  },
+  {
+    "id": 4,
+    "name": "سارة أحمد",
+    "role": "رائدة أعمال",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=150&q=80",
+    "testimonial": "دورة إدارة الأعمال الرقمية أعطتني المعرفة اللازمة لبدء مشروعي الخاص. الآن أدير شركة ناشئة بنجاح.",
+    "rating": 5,
+    "course": "إدارة الأعمال الرقمية"
+  }
+]
